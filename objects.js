@@ -1,8 +1,8 @@
 
-playlist['smiths'] = "rusholm ruffians"
+playlist['smiths'] = 'rusholm ruffians'
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
-  playlist['Phil Ochs'] = "THere's to the State of Mississippi"
+  playlist['Phil Ochs'] = 'THere's to the State of Mississippi'
   return playlist
 }
