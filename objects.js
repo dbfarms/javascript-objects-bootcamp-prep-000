@@ -1,5 +1,8 @@
 
-playlist['smiths'] = 'rusholm ruffians'
+var playlist = {smiths: 'rusholm ruffians'}
+
+
+['smiths'] = 'rusholm ruffians'
 
 
 function updatePlaylist(playlist, artistName, songTitle) {
